@@ -1,4 +1,16 @@
 # App-de-residencias
-#Esta app fue creada con el proposito de generar las interfaces de la aplicacion movil requerida. Mediante este proyecto fue con el cual he logrado concluir mi proceso de titulacion puesto que desarrolle las competencias necesarias para crear la aplicacion con conocimientos desde cero durante mi estancia en esta empresa que me permitio realizar mis practicas profesionales.
+#Desarollo de proyecto de Residencias enfocado a React Native.
+
+Se llevo a cabo la creación de directrices de interfaz de usuario y codificacion del proyecto con el fin de proporcionar el desarrollo y funcionamiento Front-end.
+
+Tech stack:
+- React Native
+- JavaScript
+- JSX
+- CSS
+
+Tools:
+- Design: Figma
+- Code: Visual Studio Code
 
 https://raw.githubusercontent.com/kuro-98/App-de-residencias/main/Proyecto-Residencias.png
